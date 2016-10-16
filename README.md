@@ -1,2 +1,2 @@
 #Calculo-imc
-Site para calcular IMC.
+Site para calcular IMC utilizando Javascript.
